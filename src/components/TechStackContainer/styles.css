@@ -1,0 +1,9 @@
+.black-stack-icon,
+.dark .white-stack-icon {
+  display: block !important;
+}
+
+.white-stack-icon,
+.dark .black-stack-icon {
+  display: none !important;
+}
